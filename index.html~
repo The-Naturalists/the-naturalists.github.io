@@ -1,13 +1,40 @@
+<!DOCTYPE html>
 <html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>The Naturalists by The-Naturalists</title>
+  </head>
 
-<head>
-<title>
-The Naturalists
-</title>
-</head>
+  <body>
+    <div id="container">
+      <div class="inner">
 
-<body>
-Welcome to the official website of The Naturalists, the IISc Undergraduate biology club.
-</body>
+        <header>
+          <h1>The Naturalists</h1>
+          <h2>IISc Undergraduate biology club</h2>
+        </header>
 
+        <hr>
+
+        <section id="main_content">
+          <p>Welcome to the website of The Naturalists, the IISc Undergraduate biology club. All activities of the club will be uploaded here.</p>
+          <p>Read <a href="data/book.pdf">this book</a> for great joy and profit.</p>
+        </section>
+
+        <footer>
+          This page is maintained by <a href="mailto:prabaha007@gmail.com">Prabaha Gangopadhyay</a>(prabaha007@gmail.com).
+        </footer>
+
+        
+      </div>
+    </div>
+  </body>
 </html>
