@@ -57,10 +57,14 @@ body {
 }
 
 a {
-  color: #d5000d;
+	font-style: italic;
+  text-decoration: underline;
+	color: #6d6d6d;
 }
 a:hover {
-  color: #c5000c;
+	font-style: italic;
+  text-decoration: underline;
+  color: #000000;
 }
 
 header {
@@ -275,7 +279,8 @@ p {
 }
 
 a {
-  text-decoration: none;
+	font-style: italic;
+  text-decoration: underline;
 }
 
 p a {
