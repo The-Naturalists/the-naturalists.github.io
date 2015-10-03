@@ -292,13 +292,15 @@ blockquote {
 ul.none li {
   list-style-position: inside;
   list-style: none;
-  padding-left: 20px;
+	margin-left: 30px;
+  padding-left: 0px;
 }
 
 ul.disc li {
   list-style-position: inside;
   list-style: disc;
-  padding-left: 20px;
+	margin-left: 45px;
+  padding-left: 5px;
 }
 
 ol li {
