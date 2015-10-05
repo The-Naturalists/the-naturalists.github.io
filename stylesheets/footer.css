@@ -1,0 +1,12 @@
+#footer {
+    bottom: 0;
+    height: 16px;
+    font-family: Helvetica;
+    font-style: Italic;
+    font-weight: 900;
+    color: gray;
+    padding: 20px;
+    font-size: 14px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
