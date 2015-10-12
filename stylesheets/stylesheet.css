@@ -296,14 +296,14 @@ blockquote {
 }
 
 ul.none li {
-  list-style-position: inside;
+  list-style-position: outside;
   list-style: none;
 	margin-left: 30px;
   padding-left: 0px;
 }
 
 ul.disc li {
-  list-style-position: inside;
+  list-style-position: outside;
   list-style: disc;
 	margin-left: 45px;
   padding-left: 5px;
